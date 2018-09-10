@@ -1,0 +1,4 @@
+enrich_plugin:
+  FEED_URL: <Enter The Anomali Integrator Destination URL>
+
+
